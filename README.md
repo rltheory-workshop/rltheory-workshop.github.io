@@ -9,7 +9,7 @@ winding-down before COLT
 Please let us know if you intend to come by filling out [this](https://forms.gle/Q8hs1Kb8xXtFyd1f9) Google form.
 
 We look forward to seeing you there,<br/>
-*David Janz, Alex Ayoub \& Csaba Szepesvári*
+*David Janz, Alex Ayoub & Csaba Szepesvári*
 
 Direct questions to David Janz, david.janz93 at gmail.com
 
