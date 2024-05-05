@@ -6,7 +6,7 @@ We would like to invite you\* to the second\*\* RL theory workshop, taking place
 - June 29th: First half dedicated to talks, second half to recreation and
 winding-down before COLT
 
-Please let us know if you intend to come by filling out [this](https://forms.gle/Q8hs1Kb8xXtFyd1f9) Google form.
+Please let us know if you intend to come by filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form.
 
 We look forward to seeing you there,<br/>
 *David Janz, Alex Ayoub & Csaba Szepesvári*
