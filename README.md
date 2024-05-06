@@ -23,15 +23,15 @@ Direct questions to David Janz, david.janz93 AT gmail.com
 - *Optimistic Q-learning for weakly communicating MDPs,* **Shipra Agrawal**
 - *Truncated Variance Reduced Value Iteration,* **Ishani Aniruddha Karmarkar**
 - *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
-- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**
+- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
 - *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* **Philip Amortila**
-- *Scalable Online Exploration via Coverability,* **Dylan Foster**
+- *Scalable Online Exploration via Coverability,* **Dylan Foster**, [paper link](https://arxiv.org/abs/2403.06571)
 - *On the Instance-dependent Sample Complexity of Tabular RL*, **Kevin Jamieson**
 - *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* **Zhou, Dongruo**
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* **Sharan Vaswani**
 
 ### Bandits
-- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**
+- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
 - *Achieving Optimal Static Regret and Dynamic Regret Simultaneously in Bandits,* **Jian Qian**
 
 ### Game theory
