@@ -45,5 +45,6 @@ The first is on campus, the second a three minute walk away.
 ### Applications
 - *Reinforcement Learning from Human Feedback with Active Queries,* **Quanquan Gu**
 - *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
-- *Bisimulation metrics are optimal transport distances, and they can be,* **Gergely Neu**
+- *Bisimulation Metrics are Optimal Transport Distances,
+and Can be Computed Efficiently,* **Gergely Neu**
 
