@@ -44,7 +44,7 @@ The first is on campus, the second a three minute walk away.
 -  *Towards Characterizing the First-order Query Complexity of Learning
 (Approximate) Nash Equilibria in Zero-sum Matrix Games,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2304.12768)
 
-### Applications
+### Other fun topics
 - *Reinforcement Learning from Human Feedback with Active Queries,* **Quanquan Gu**
 - *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
 - *Bisimulation Metrics are Optimal Transport Distances,
