@@ -1,22 +1,26 @@
 # The second RL theory workshop (co-located with COLT 2024)
 
-We would like to invite you\* to the second\*\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
-- Evening of June 27th: dinner and drinks
+We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
+- Evening of June 27th: dinner and drinks (starting, say, 19:30)
 - June 28th: Full day of talks and discussions, some fun activity in the evening
 - June 29th: First half dedicated to talks, second half to recreation and
 winding-down before COLT
 
-Let us know if you intend to come by filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form (please fill this out even if you have confirmed your attendence otherwise, say, through having emailed with us about this).
+Let us know if you intend to come by filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form (please fill this out even if you have confirmed your attendence otherwise, say, through having emailed with us about this). The workshop is free to attend, but we cannot provide funding or accomodation.
+
 
 We look forward to seeing you there,<br/>
-*David Janz, Alex Ayoub & Csaba Szepesvári*
+*David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
 
-Direct questions to David Janz, david.janz93 AT gmail.com
+\*Recordings from last year's workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).
 
+## Organisational details
 
-\*Anyone in the theory and adjecent communities is welcome to attend; the workshop is free to attend, but we cannot provide funding or accomodation. <br/>
-\*\*Recordings from last year's workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).
-
+The workshop will take place at or nearby the Computing Science Centre of the University of Alberta; this is the same location as COLT. Regarding accomodation, two reasonable choices are:
+- Guest rooms at the university (Lister dorms), [website](https://www.ualberta.ca/conference-services/accommodation/guest-rooms.html)
+- Campus tower hotel, [website](https://www.campustower.com/)
+  
+The first is on campus, the second a three minute walk away.
 
 ## Tentative talks list
 ### Core RL theory
