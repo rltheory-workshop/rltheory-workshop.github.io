@@ -16,7 +16,7 @@ We look forward to seeing you there,<br/>
 
 ## Organisational details
 
-The workshop will take place at or nearby the Computing Science Centre of the University of Alberta; this is the same location as COLT. Regarding accomodation, two reasonable choices are:
+The workshop will take place at or nearby the Computing Science Centre of the University of Alberta; this is the same location as COLT. Regarding accommodation, two reasonable choices are:
 - Guest rooms at the university (Lister dorms), [website](https://www.ualberta.ca/conference-services/accommodation/guest-rooms.html)
 - Campus tower hotel, [website](https://www.campustower.com/)
   
