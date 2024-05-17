@@ -6,7 +6,8 @@ We would like to invite you to the second\* RL theory workshop, taking place 27-
 - June 29th: First half dedicated to talks, second half to recreation and
 winding-down before COLT
 
-Let us know if you intend to come by filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form (please fill this out even if you have confirmed your attendence otherwise, say, through having emailed with us about this). The workshop is free to attend, but we cannot provide funding or accomodation.
+Let us know if you intend to come by **filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form** (please fill this out even if you have confirmed your attendence otherwise, say, through having emailed with us about this). The workshop is free to attend, but we cannot provide funding or accomodation.
+To get a VISA invitation letter, please use [this](https://forms.gle/RVGUXsjQbAFsNdvz6) form on the COLT website, noting in the "additional input" box that whether you will attend COLT, or just the workshop. We will generate the COLT invitation letter for you and if you need any modification to it, please let us know after receiving the letter.
 
 
 We look forward to seeing you there,<br/>
