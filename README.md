@@ -42,7 +42,6 @@ The first is on campus, the second a three minute walk away.
 ### Game theory
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* **Simon Du**
--  *Towards Characterizing the First-order Query Complexity of Learning
 
 ### Other fun topics
 - *Reinforcement Learning from Human Feedback with Active Queries,* **Quanquan Gu**
