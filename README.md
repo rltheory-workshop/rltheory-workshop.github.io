@@ -43,11 +43,11 @@ The first is on campus, the second a three minute walk away.
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* **Simon Du**
 -  *Towards Characterizing the First-order Query Complexity of Learning
-(Approximate) Nash Equilibria in Zero-sum Matrix Games,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2304.12768)
 
 ### Other fun topics
 - *Reinforcement Learning from Human Feedback with Active Queries,* **Quanquan Gu**
 - *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
 - *Bisimulation Metrics are Optimal Transport Distances,
 and Can be Computed Efficiently,* **Gergely Neu**
+- *Robust Online Learning in the Presence of Outliers,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 
