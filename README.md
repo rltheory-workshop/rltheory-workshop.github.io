@@ -6,7 +6,8 @@ We would like to invite you to the second\* RL theory workshop, taking place 27-
 - June 29th: First half dedicated to talks, second half to recreation and
 winding-down before COLT
 
-Let us know if you intend to come by **filling out [this](https://forms.gle/wuy1eEnnb3sRmp6o9) Google form** (please fill this out even if you have confirmed your attendence otherwise, say, through having emailed with us about this). The workshop is free to attend, but we cannot provide funding or accomodation.
+The workshop is free to attend, but we cannot provide funding or accomodation.
+
 To get a VISA invitation letter, please use [this](https://forms.gle/RVGUXsjQbAFsNdvz6) form on the COLT website, noting in the "additional input" box that whether you will attend COLT, or just the workshop. We will generate the COLT invitation letter for you and if you need any modification to it, please let us know after receiving the letter.
 
 
@@ -30,21 +31,20 @@ The first is on campus, the second a three minute walk away.
 - *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
 - *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
 - *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* **Philip Amortila**
-- *Scalable Online Exploration via Coverability,* **Dylan Foster**, [paper link](https://arxiv.org/abs/2403.06571)
+- *Scalable Online Exploration via Coverability,* **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
 - *On the Instance-dependent Sample Complexity of Tabular RL*, **Kevin Jamieson**
 - *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* **Zhou, Dongruo**
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* **Sharan Vaswani**
 
 ### Bandits
 - *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
-- *Achieving Optimal Static Regret and Dynamic Regret Simultaneously in Bandits,* **Jian Qian**
 
 ### Game theory
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* **Simon Du**
 
 ### Other fun topics
-- *Reinforcement Learning from Human Feedback with Active Queries,* **Quanquan Gu**
+- *Reinforcement Learning from Human Feedback with Active Queries,* **Jiafan He**
 - *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
 - *Bisimulation Metrics are Optimal Transport Distances,
 and Can be Computed Efficiently,* **Gergely Neu**
