@@ -2,9 +2,8 @@
 
 We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
 - Evening of June 27th: dinner and drinks (starting, say, 19:30)
-- June 28th: Full day of talks and discussions, some fun activity in the evening
-- June 29th: First half dedicated to talks, second half to recreation and
-winding-down before COLT
+- June 28th: Full day of talks and discussions, with a *poster session* in the middle. Sandwich lunch provided.
+- June 29th: Half a day of talks followed by climbing/hiking and then pub.
 
 The workshop is free to attend, but we cannot provide funding or accomodation.
 
