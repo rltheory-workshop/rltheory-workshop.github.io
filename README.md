@@ -9,7 +9,6 @@ The workshop is free to attend, but we cannot provide funding or accomodation.
 
 To get a VISA invitation letter, please use [this](https://forms.gle/RVGUXsjQbAFsNdvz6) form on the COLT website, noting in the "additional input" box that whether you will attend COLT, or just the workshop. We will generate the COLT invitation letter for you and if you need any modification to it, please let us know after receiving the letter.
 
-
 We look forward to seeing you there,<br/>
 *David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
 
@@ -17,7 +16,9 @@ We look forward to seeing you there,<br/>
 
 ## Organisational details
 
-The workshop will take place at or nearby the Computing Science Centre of the University of Alberta; this is the same location as COLT. Regarding accommodation, two reasonable choices are:
+Location: **room E2-001 of the ETLC** (Engineering Teaching and Learning Complex), [map link](https://maps.app.goo.gl/ZzqFmEFnaz17eaCg9).
+
+Regarding accommodation, two reasonable choices are:
 - Guest rooms at the university (Lister dorms), [website](https://www.ualberta.ca/conference-services/accommodation/guest-rooms.html)
 - Campus tower hotel, [website](https://www.campustower.com/)
   
