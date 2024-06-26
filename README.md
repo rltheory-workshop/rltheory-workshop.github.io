@@ -25,25 +25,25 @@ The first is on campus, the second a three minute walk away.
 ## Talks list
 
 June 28th am:
-- *Truncated Variance Reduced Value Iteration,* **Ishani Aniruddha Karmarkar**
-- *Optimistic Q-learning for weakly communicating MDPs,* **Shipra Agrawal**
-- *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* **Zhou, Dongruo**
-- *On the Instance-dependent Sample Complexity of Tabular RL*, **Kevin Jamieson**
+- *Truncated Variance Reduced Value Iteration,* 1hr, **Ishani Aniruddha Karmarkar**
+- *Optimistic Q-learning for average reward and episodic RL,* 1hr, **Shipra Agrawal**
+- *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* 30min, **Dongruo Zhou**
+- *On the Instance-dependent Sample Complexity of Tabular RL*, 30min **Kevin Jamieson**
 
 June 28th pm:
-- *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* **Philip Amortila**
-- *Scalable Online Exploration via Coverability,* **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
-- *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* **Gergely Neu**
-- *Robust Online Learning in the Presence of Outliers,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
-- *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* **Sharan Vaswani**
-- *Self-Play Preference Optimization for Language Model Alignment,* **Quanquan Gu**
+- *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* 30min, **Philip Amortila**
+- *Scalable Online Exploration via Coverability,* 30min **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
+- *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* 30min **Gergely Neu**
+- *Robust Online Learning in the Presence of Outliers,* 30min, **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
+- *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* 30min **Sharan Vaswani**
+- *Self-Play Preference Optimization for Language Model Alignment,* 30min **Quanquan Gu**
 
 June 29th am:
-- *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
-- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
-- *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
+- *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* 1hr, **Ki Hong**
+- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* 1hr, **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
+- *Efficient exploration in deep RL via utility theory,* 30min, **Brendan O'Donoghue**
 
 June 29th pm:
-- *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* **Niao He**
-- *When are Offline Multi-Agent Games Solvable?,* **Simon Du**
-- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
+- *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* 30min, **Niao He**
+- *When are Offline Multi-Agent Games Solvable?,* 30min, **Simon Du**
+- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* 1hr **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
