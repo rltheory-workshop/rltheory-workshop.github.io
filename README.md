@@ -1,7 +1,7 @@
 # The second RL theory workshop (co-located with COLT 2024)
 
 We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
-- Evening of June 27th: dinner and drinks, 19:30 at the [Continental Treat Fine Bistro](https://maps.app.goo.gl/BYq4qY8ZkvmS5vwa6) on Whyte avenue.
+- Evening of June 27th: dinner and drinks, 19:30 at the [Continental Treat Fine Bistro](https://maps.app.goo.gl/BYq4qY8ZkvmS5vwa6) on Whyte avenue.\*\*
 - June 28th: 9:00-12:15 am talks; 12:15-14:15 sandwiches and posters; 14:15-17:45 pm talks.
 - June 29th: 9:00-11:45 am talks; 12:15-14:45 pm talks; climbing/hiking and then pub.
 
@@ -11,6 +11,7 @@ We look forward to seeing you there,<br/>
 *David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
 
 \*Recordings from last year's workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).
+\*\* Dinner is paid for by Project Eva, Jack Mayo and Daniel Abrahamian's startup. They just got funded. Ask them what they do :).
 
 ## Organisational details
 
