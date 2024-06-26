@@ -10,8 +10,8 @@ The workshop is free to attend, but we cannot provide funding or accomodation.
 We look forward to seeing you there,<br/>
 *David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
 
-\*Recordings from last year's workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).
-\*\* Dinner is paid for by Project Eva, Jack Mayo and Daniel Abrahamian's startup. They just got funded. Ask them what they do :).
+\*Recordings from last year's workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).<br/>
+\*\* Dinner is paid for by *Project Eva,* Jack Mayo and Daniel Abrahamian's startup. They just got funded. Ask them what they do :).
 
 ## Organisational details
 
