@@ -1,13 +1,11 @@
 # The second RL theory workshop (co-located with COLT 2024)
 
 We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
-- Evening of June 27th: dinner and drinks (starting, say, 19:30)
-- June 28th: Full day of talks and discussions, with a *poster session* in the middle. Sandwich lunch provided.
-- June 29th: Half a day of talks followed by climbing/hiking and then pub.
+- Evening of June 27th: dinner and drinks, 19:30 at the [Continental Treat Fine Bistro](https://maps.app.goo.gl/BYq4qY8ZkvmS5vwa6) on Whyte avenue.
+- June 28th: 9:00-12:15 am talks; 12:15-14:15 sandwiches and posters; 14:15-17:45 pm talks.
+- June 29th: 9:00-11:45 am talks; 12:15-14:45 pm talks; climbing/hiking and then pub.
 
 The workshop is free to attend, but we cannot provide funding or accomodation.
-
-To get a VISA invitation letter, please use [this](https://forms.gle/RVGUXsjQbAFsNdvz6) form on the COLT website, noting in the "additional input" box that whether you will attend COLT, or just the workshop. We will generate the COLT invitation letter for you and if you need any modification to it, please let us know after receiving the letter.
 
 We look forward to seeing you there,<br/>
 *David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
@@ -24,29 +22,28 @@ Regarding accommodation, two reasonable choices are:
   
 The first is on campus, the second a three minute walk away.
 
-## Tentative talks list
-### Core RL theory
-- *Optimistic Q-learning for weakly communicating MDPs,* **Shipra Agrawal**
+## Talks list
+
+June 28th am:
 - *Truncated Variance Reduced Value Iteration,* **Ishani Aniruddha Karmarkar**
-- *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
-- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
+- *Optimistic Q-learning for weakly communicating MDPs,* **Shipra Agrawal**
+- *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* **Zhou, Dongruo**
+- *On the Instance-dependent Sample Complexity of Tabular RL*, **Kevin Jamieson**
+
+June 28th pm:
 - *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* **Philip Amortila**
 - *Scalable Online Exploration via Coverability,* **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
-- *On the Instance-dependent Sample Complexity of Tabular RL*, **Kevin Jamieson**
-- *Uncertainty-Aware Reward-Free Exploration with General Function Approximation,* **Zhou, Dongruo**
+- *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* **Gergely Neu**
+- *Robust Online Learning in the Presence of Outliers,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* **Sharan Vaswani**
+- *Reinforcement Learning from Human Feedback with Active Queries,* **Jiafan He**
 
-### Bandits
-- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
+June 29th am:
+- *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
+- *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
+- *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
 
-### Game theory
+June 29th pm:
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* **Simon Du**
-
-### Other fun topics
-- *Reinforcement Learning from Human Feedback with Active Queries,* **Jiafan He**
-- *Efficient exploration in deep RL via utility theory,* **Brendan O'Donoghue**
-- *Bisimulation Metrics are Optimal Transport Distances,
-and Can be Computed Efficiently,* **Gergely Neu**
-- *Robust Online Learning in the Presence of Outliers,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
-
+- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
