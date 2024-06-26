@@ -36,7 +36,7 @@ June 28th pm:
 - *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* **Gergely Neu**
 - *Robust Online Learning in the Presence of Outliers,* **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* **Sharan Vaswani**
-- *Reinforcement Learning from Human Feedback with Active Queries,* **Jiafan He**
+- *Self-Play Preference Optimization for Language Model Alignment,* **Quanquan Gu**
 
 June 29th am:
 - *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* **Ki Hong**
