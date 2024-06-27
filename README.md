@@ -32,8 +32,8 @@ June 28th am:
 - *On the Instance-dependent Sample Complexity of Tabular RL*, 30min **Kevin Jamieson**
 
 June 28th pm:
-- *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* 30min, **Philip Amortila**
 - *Scalable Online Exploration via Coverability,* 30min **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
+- *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* 30min, **Philip Amortila**
 - *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* 30min **Gergely Neu**
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* 30min **Sharan Vaswani**
 - *Self-Play Preference Optimization for Language Model Alignment,* 30min **Quanquan Gu**
