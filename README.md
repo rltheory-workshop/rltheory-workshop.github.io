@@ -2,8 +2,8 @@
 
 We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
 - Evening of June 27th: dinner and drinks, 19:30 at the [Continental Treat Fine Bistro](https://maps.app.goo.gl/BYq4qY8ZkvmS5vwa6) on Whyte avenue.\*\*
-- June 28th: 9:00-12:15 am talks; 12:15-14:15 sandwiches and posters; 14:15-17:45 pm talks.
-- June 29th: 9:00-11:45 am talks; 12:15-14:45 pm talks; climbing/hiking and then pub.
+- June 28th: 9:00-12:15 am talks; 12:15-14:15 sandwiches and posters; 14:15-17:15 pm talks.
+- June 29th: 9:00-11:45 am talks; 12:15-15:20 pm talks; climbing/hiking and then pub.
 
 The workshop is free to attend, but we cannot provide funding or accomodation.
 
@@ -35,7 +35,6 @@ June 28th pm:
 - *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* 30min, **Philip Amortila**
 - *Scalable Online Exploration via Coverability,* 30min **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
 - *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* 30min **Gergely Neu**
-- *Robust Online Learning in the Presence of Outliers,* 30min, **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* 30min **Sharan Vaswani**
 - *Self-Play Preference Optimization for Language Model Alignment,* 30min **Quanquan Gu**
 
@@ -45,6 +44,7 @@ June 29th am:
 - *Efficient exploration in deep RL via utility theory,* 30min, **Brendan O'Donoghue**
 
 June 29th pm:
+- *Robust Online Learning in the Presence of Outliers,* 30min, **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* 30min, **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* 30min, **Simon Du**
 - *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* 1hr **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
