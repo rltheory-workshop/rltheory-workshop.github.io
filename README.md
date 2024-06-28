@@ -3,7 +3,7 @@
 We would like to invite you to the second\* RL theory workshop, taking place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). Schedule:
 - Evening of June 27th: dinner and drinks, 19:30 at the [Continental Treat Fine Bistro](https://maps.app.goo.gl/BYq4qY8ZkvmS5vwa6) on Whyte avenue.\*\*
 - June 28th: 9:00-12:15 am talks; 12:15-14:15 sandwiches and posters; 14:15-17:15 pm talks.
-- June 29th: 9:00-11:45 am talks; 12:15-15:20 pm talks; climbing/hiking and then pub.
+- June 29th: 9:00-11:45 am talks; 13:15-15:00 pm talks; climbing/hiking and then pub.
 
 The workshop is free to attend, but we cannot provide funding or accomodation.
 
@@ -41,7 +41,7 @@ June 28th pm:
 June 29th am:
 - *A Computationally Efficient Algorithm for Infinite-Horizon Average Reward Reinforcement Learning with Linear MDPs,* 1hr, **Ki Hong**
 - *Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data,* 1hr, **Zeyu Jia**, [paper link](https://arxiv.org/abs/2403.17091)
-- *Efficient exploration in deep RL via utility theory,* 30min, **Brendan O'Donoghue**
+- *Efficient exploration in deep RL via utility theory,* 45min, **Brendan O'Donoghue**
 
 June 29th pm:
 - *Robust Online Learning in the Presence of Outliers,* 30min, **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
