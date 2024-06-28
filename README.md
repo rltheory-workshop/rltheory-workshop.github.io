@@ -34,7 +34,7 @@ June 28th am:
 June 28th pm:
 - *Scalable Online Exploration via Coverability,* 30min **Philip Amortila**, [paper link](https://arxiv.org/abs/2403.06571)
 - *Statistical and Algorithmic Reductions for Reinforcement Learning From Rich Observations,* 30min, **Philip Amortila**
-- *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* 30min **Gergely Neu**
+- *Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently,* 45min **Gergely Neu**
 - *Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs,* 30min **Sharan Vaswani**
 - *Self-Play Preference Optimization for Language Model Alignment,* 30min **Quanquan Gu**
 
@@ -47,4 +47,3 @@ June 29th pm:
 - *Robust Online Learning in the Presence of Outliers,* 30min, **Tim van Erven**, [paper link](https://arxiv.org/abs/2107.01881)
 - *Reinforcement Learning in Mean Field Games: the pitfalls and promises,* 30min, **Niao He**
 - *When are Offline Multi-Agent Games Solvable?,* 30min, **Simon Du**
-- *The Dissimilarity Dimension: Sharper Bounds for Optimistic Algorithms,* 1hr **Aldo Pacchiano**, [paper link](https://arxiv.org/abs/2306.06184)
