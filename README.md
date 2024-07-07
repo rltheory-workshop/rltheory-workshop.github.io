@@ -2,9 +2,9 @@
 
 ![Hiking photo](hiking-pic.jpg)
 
-Our second\* RL theory workshop, took place 27-29 June 2024 at the University of Alberta (Co-located with COLT; COLT commences on the 30th of June). *Project Eva,* Jack Mayo and Daniel Abrahamian's startup, sponsored the event.
+Our second\* RL theory workshop took place 27-29 June 2024 at the University of Alberta. *Project Eva,* Jack Mayo and Daniel Abrahamian's startup, sponsored the event.
 
-*David Janz (david.janz93 AT gmail.com), Alex Ayoub & Csaba Szepesvári*
+*David Janz, Alex Ayoub & Csaba Szepesvári*
 
 \*Recordings from the previous workshop are available [here](https://www.youtube.com/playlist?list=PLOtn0gtfk-RnuiDoj7oDP9LZ7pdOj5vtO).<br/>
 
